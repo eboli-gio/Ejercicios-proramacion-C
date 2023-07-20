@@ -1,0 +1,8 @@
+El polinomio es:X^2+2X^1 +1
+El polinomio es:X^1+1
+La suma de los polinomios es:X^2+3X^1 +2
+La resta de los polinomios es:X^2+X^1
+La multiplicacion de los polinomios es:X^3+3X^2 +3X^1 +1
+La division de los polinomios es:X^1+1
+El residuo de la division de los polinomios es:0
+El maximo comun divisor de los polinomios es:X^1+1

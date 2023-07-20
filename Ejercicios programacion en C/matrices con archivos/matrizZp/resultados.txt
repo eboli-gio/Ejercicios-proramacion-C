@@ -1,0 +1,18 @@
+La suma de las dos matrices es:
+     5      2 
+     6      6 
+
+El producto de las dos matrices es:
+     5      3 
+     1      1 
+
+La transpuesta de la matriz es:
+     1      4 
+     4      3 
+
+
+El determinante de la matriz es:1
+La inversa de la matriz es:
+     3     -4 
+    -4      1 
+

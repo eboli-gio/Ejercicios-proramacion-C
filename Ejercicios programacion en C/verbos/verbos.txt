@@ -1,0 +1,13 @@
+			   Presente 		   Copreterito 		   Preterito 		     Futuro 		   Pospreterito 
+      yo		    parto		    partia		    parti		    partire		    partiria
+      tu		    partes		    partias		    partiste		    partiras		    partirias
+ el/ella		    parte		    partia		    partio		    partira		    partiria
+ellos/ustedes		    parten		    partian		    partieron		    partiran		    partirian
+nosotros		    partimos		    partíamos		    partimos		    partiremos		    partiriamos
+Tiempos compuestos          antepresente           antecopreterito      	     antepreterito      	      antefuturo      		   antepospreterito
+      yo		     he partido		     habia partido		      hube partido		     habre partido		      habria partido
+      tu		    has partido		    habias partido		   hubiste partido		    habras partido		     habrias partido
+ el/ella		     ha partido		     habia partido		      hubo partido		     habra partido		      habria partido
+ellos/ustedes		    han partido		    habian partido		  hubieron partido		    habran partido		   habriamos partido
+nosotros		  hemos partido		  habiamos partido		   hubimos partido		  habremos partido		     habrian partido
+

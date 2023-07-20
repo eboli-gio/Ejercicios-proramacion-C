@@ -1,0 +1,11 @@
+El polinomio es:X^2+X^1+1
+El polinomio es:X^1+1
+La suma de los polinomios es:X^2+2X^1 +2
+La resta de los polinomios es:X^2
+La multiplicacion de los polinomios es:X^3+2X^2 +2X^1 +1
+El cociente de la division es: X^1
+El residuo de la division es: +1
+
+El mcd es: X^1+1
+
+El primer polinomio valuado en 1 es:3

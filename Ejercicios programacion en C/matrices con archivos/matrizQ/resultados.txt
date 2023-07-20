@@ -1,0 +1,22 @@
+La suma de las dos matrices es:
+2 2
+ 43/14  -29/42 
+ -29/42  16/7 
+
+El producto de las dos matrices es:
+2 2
+ 8/7  -3/14 
+ -3/7  8/7 
+
+La transpuesta de la matriz es:
+2 2
+ 1/2  1/6 
+ 1/6  2/2 
+
+
+El determinante de la matriz es: 17/36 
+La inversa de la matriz es:
+2 2
+ 36/17  -6/17 
+ -6/17  18/17 
+

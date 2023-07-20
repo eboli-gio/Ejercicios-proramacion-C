@@ -1,0 +1,9 @@
+El polinomio es:((1+0i+1j+0k))X^2 +((2+0i+0j+0k))X^1 +(1+0i+0j+0k)
+El polinomio es:((1+0i+1j+0k))X^2 +((2+0i+0j+0k))X^1 +(1+0i+0j+0k)
+La suma de los polinomios es:((2+0i+2j+0k))X^2 +((4+0i+0j+0k))X^1 +(2+0i+0j+0k)
+La resta de los polinomios es:0
+La multiplicacion de los polinomios es:((0+0i+2j+0k))X^4 +((4+0i+4j+0k))X^3 +((6+0i+2j+0k))X^2 +((4+0i+0j+0k))X^1 +(1+0i+0j+0k)
+El cociente de la division de los polinomios es:+(8.09477e-320+0i+0j+0k)
+El residuo de la division de los polinomios es:0
+El MCD de los polinomios es:+(8.09477e-320+0i+0j+0k)
+El primer polinomio valuado en (1+1i+1j+1k) es:-1+6i+2j+2k

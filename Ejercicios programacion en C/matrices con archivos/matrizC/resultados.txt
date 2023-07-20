@@ -1,0 +1,22 @@
+La suma de las dos matrices es:
+2 2
+3+2i 5+5i 
+5+7i 5+5i 
+
+El producto de las dos matrices es:
+2 2
+-7+19i 18i 
+-2+24i 20i 
+
+La transpuesta de la matriz es:
+2 2
+1+1i 4+4i 
+4+4i 3+3i 
+
+
+El determinante de la matriz es:-26i 
+La inversa de la matriz es:
+2 2
+-0.115385+0.115385i 0.153846+-0.153846i 
+0.153846+-0.153846i -0.0384615+0.0384615i 
+
